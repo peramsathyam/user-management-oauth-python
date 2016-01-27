@@ -1,4 +1,7 @@
 #Auth0 + Python WebApp Seed
+
+[![Codacy Badge](https://api.codacy.com/project/badge/grade/8cfefdbca266489da62d8322a66564c1)](https://www.codacy.com/app/prem/user-management-oauth-python)
+
 This is the seed project you need to use if you're going to create a Regular WebApp with Python. If you want to build a Python API that will be used with a SPA or a Mobile device, please check this [other seed project](https://github.com/auth0/auth0-python/tree/master/examples/flask-api)
 
 #Running the example
